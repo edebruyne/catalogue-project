@@ -1,0 +1,5 @@
+Pour ce projet il faudra installer:
+Python 2.7
+Django 1.7+
+Django Rest Framework
+

@@ -1,0 +1,13 @@
+User,user1,user1,Adidas,1
+User,client,client,Nike,0
+User,client2,client2,Adidas,0
+Product,Chaussures1,Adidas,Chaussures,10
+Product,Chaussures2,Nike,Chaussures,15
+Product,Tee-shirt1,Adidas,Tee-Shirts,20
+Product,Chaussures3,Adidas,Chaussures,40
+Product,Tee-shirt2,Nike,Tee-Shirts,20
+Product,Tee-shirt3,Nike,Tee-Shirts,25
+Brand,Oleos,,,
+Brand,Randomia,,,
+Category,Pantalons,,,
+Category,Chemises,,,
